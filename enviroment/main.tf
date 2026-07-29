@@ -1,4 +1,4 @@
-module "resource_group_name" {
+module "resource_group" {
   source = "../childmodule/RG"
   rgs_prod = var.rgs_prod
 }
