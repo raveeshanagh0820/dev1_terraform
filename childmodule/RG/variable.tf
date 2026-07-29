@@ -1,0 +1,1 @@
+variable "rgs_prod" {}
